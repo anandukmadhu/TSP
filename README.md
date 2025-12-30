@@ -1,1 +1,2 @@
-This repository contains code and experimental data for studying quantum encoding schemes for the 4-city Traveling Salesman Problem (TSP). The project includes classical simulations and real quantum hardware results, supporting the findings reported in the associated academic paper.
+This repository contains code and experimental data for studying quantum encoding schemes for the 4-city Traveling Salesman Problem (TSP). The project includes classical simulations and real quantum hardware results, supporting the findings reported in the associated academic paper titled "An edge-based and subspace reduction encoding scheme to solve
+the traveling salesman problem in quantum computers" arXiv:2512.17291.
